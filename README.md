@@ -4,3 +4,6 @@
 
 
 <a href = "https://linktr.ee/codercorps" style="background-color: red">Follow our Socials</a>
+
+
+<p>The corder corps community is a group of indivuals  who are passionate about coding and who are dedicated to help students to learn and grow as programmers. </p>
